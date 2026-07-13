@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+.vscode/
+
+data/
+models/
+outputs/
+
+*.pkl
+*.npy
+*.npz
+*.tar.gz
